@@ -18,6 +18,7 @@ Device trees for **POCO X7 Pro 5G / Redmi Turbo 4** (MT6899, Dimensity 8400 Ultr
 | 📦 Vendor | [MT6899_vendor_xiaomi_rodin](https://github.com/Eron-Evan/MT6899_vendor_xiaomi_rodin) |
 | 📷 MIUI Camera (device) | [android_device_xiaomi_rodin-miuicamera](https://github.com/xiaomi-mt6899-dev/android_device_xiaomi_rodin-miuicamera) |
 | 📷 MIUI Camera (vendor) | [vendor_xiaomi_rodin-miuicamera](https://git.hlcyn.org/halcyonlv/vendor_xiaomi_rodin-miuicamera) |
+| 📱 Xiaomi Hardware | [hardware_xiaomi](https://github.com/halcyonproject/hardware_xiaomi) |
 | ⚙️ MTK Hardware | [hardware_mediatek](https://github.com/Eron-Evan/hardware_mediatek) |
 | 🛡️ Sepolicy VNDR | [device_mediatek_sepolicy_vndr](https://github.com/Eron-Evan/device_mediatek_sepolicy_vndr) |
 
@@ -33,6 +34,7 @@ git clone https://github.com/Eron-Evan/MT6899_device_xiaomi_rodin-kernel.git dev
 git clone https://github.com/Eron-Evan/MT6899_vendor_xiaomi_rodin.git vendor/xiaomi/rodin
 git clone https://github.com/xiaomi-mt6899-dev/android_device_xiaomi_rodin-miuicamera.git device/xiaomi/rodin-miuicamera
 git clone https://git.hlcyn.org/halcyonlv/vendor_xiaomi_rodin-miuicamera.git vendor/xiaomi/rodin-miuicamera
+git clone https://github.com/halcyonproject/hardware_xiaomi.git hardware/xiaomi
 git clone https://github.com/Eron-Evan/hardware_mediatek.git hardware/mediatek
 git clone https://github.com/Eron-Evan/device_mediatek_sepolicy_vndr.git device/mediatek/sepolicy_vndr
 ```
